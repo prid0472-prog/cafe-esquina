@@ -26,7 +26,9 @@ Los datos de la carta están en src/main.jsx. No hay almacenamiento persistente:
 
 ## Previsualización Vercel
 Importar este repositorio, seleccionar Vite y usar npm run build con salida dist. No requiere variables de entorno. Para revisión pública, comprobar que la URL se abre sin iniciar sesión; las previews pueden tener protección activada.
-URL: pendiente de despliegue.
+URL pública comprobada: https://cafe-esquina-oipebehwo-pri-df49.vercel.app/
+
+Validación realizada: compilación de producción correcta, acceso sin iniciar sesión y formulario con campos obligatorios, espera, confirmación simulada y limpieza de campos.
 
 ## Revisión manual
 - Probar a 375 px y en escritorio: no debe haber desplazamiento horizontal.
